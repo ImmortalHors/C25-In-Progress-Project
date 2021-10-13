@@ -1,1 +1,1 @@
-# C25-In-Progress-Project
+# project-C25-template
